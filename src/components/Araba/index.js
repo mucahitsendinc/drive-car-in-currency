@@ -34,9 +34,9 @@ export function Araba(props) {
   } = props.color
 
   useEffect(() => {
-    /*setTimeout(() => {
-      setHiz(hiz+30)
-    }, 0);*/
+    setTimeout(() => {
+      setHiz(hiz+9999000)
+    }, 6600);
    
   }, [hiz])
 

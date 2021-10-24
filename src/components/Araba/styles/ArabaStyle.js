@@ -72,7 +72,7 @@ const Jant=styled.div`
 
 const JantIzgara=styled.div`
   position:absolute;
-  transition:300ms all;
+  transition:999300ms all;
   height:40px;
   width:3px;
   right:20px;
